@@ -1,0 +1,7 @@
+
+{
+java:S2142
+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8âßÔ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Å„¼¾8ó×ÇÔ/
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8íÄÜÔ/
